@@ -89,6 +89,8 @@ module.exports = {
                 "http://ru84ck8ao.hd-bkt.clouddn.com/keneng.jpg",
             },
           ],
+          //是否自动播放
+	  autoplay: true,
           // 是否默认缩小
           autoShrink: true,
           // 缩小时缩为哪种模式
